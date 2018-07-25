@@ -1,4 +1,4 @@
-# titanic
+# Titanic
 This project focuses on analyzing Titanic survivor data from Kaggle using Pandas and visualizations(Matplotlib and Seaborn).
 
 A couple of things before we get started:
@@ -21,5 +21,5 @@ A couple of things before we get started:
 
 - In the end, I created several charts showing the survival rates of different groups of people.
 
-# Results and Findings
+## Results and Findings
 If you have gone through my notebook, you will notice that if you were a man on the Titanic, your chances of survival were slim, regardless of your boarding class, age, port of embarkation, etc. 
