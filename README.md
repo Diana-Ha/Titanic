@@ -19,7 +19,5 @@ A couple of things before we get started:
 10. Of all the people that died, who had the most expensive ticket? How much did it cost?
 11. Does having family on the boat help or hurt your chances of survival?
 
-- In the end, I created several charts showing the survival rates of different groups of people.
-
-## Results and Findings
+### Results and Findings
 If you have gone through my notebook, you will notice that if you were a man on the Titanic, your chances of survival were slim, regardless of your boarding class, age, port of embarkation, etc. 
